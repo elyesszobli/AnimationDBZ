@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  background: url("./assets/images/background.jpg") center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  height: 35rem;
+}
+button {
+    margin: 1.5rem;
+    padding: 0.5rem;
+    background: none;
+    color: orange;
+    border: 2px solid orange;
+    border-radius: 20px;
+    cursor: pointer;
+}
+ button:hover{
+    opacity: 0.6;
+}
+
+/*audio{
+    display: none;
+}*/
