@@ -1,0 +1,17 @@
+{
+  "name": "animationdbz",
+  "version": "1.0.0",
+  "description": "Animation inspirée de Dragon Ball Z créée avec HTML, CSS et JavaScript.",
+  "main": "index.js",
+  "scripts": {
+  "start": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.4"
+  }
+}
